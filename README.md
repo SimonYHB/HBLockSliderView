@@ -3,7 +3,7 @@
 快速创建滑动解锁视图，高度自定义,常用于滑动解锁,进度条等等
 配套简书文章：[iOS 自定义实现滑动解锁功能](http://www.jianshu.com/p/c162afefe713)
 
-Beautiful Slider View. Written in Objective-C.  Similar in style to UISlider, but which allows you can make more customization.
+Beautiful Slider View. Written in Objective-C.  Similar in style to UISlider, but which allows you to make more customization.
 
 ## Installation
 
